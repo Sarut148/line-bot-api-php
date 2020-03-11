@@ -1,4 +1,3 @@
 <?php
-for($i =0;$i<10;$i++){
-echo "Hello LINE BOT \"ITICEMANz_591999990692!!\"";
-};
+
+echo "Hello LINE BOT \"ICE_Sarut-59160692!!\"";
